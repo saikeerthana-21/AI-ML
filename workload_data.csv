@@ -1,0 +1,11 @@
+Outlook,Temperature,Humidity,Wind,Workload,Target
+Sunny,Hot,High,Weak,High,No
+Sunny,Hot,High,Strong,High,No
+Overcast,Hot,High,Weak,High,Yes
+Rain,Mild,High,Weak,Medium,Yes
+Rain,Cool,Normal,Weak,Low,Yes
+Rain,Cool,Normal,Strong,Low,No
+Overcast,Cool,Normal,Strong,Low,Yes
+Sunny,Mild,High,Weak,Medium,No
+Sunny,Cool,Normal,Weak,Low,Yes
+Rain,Mild,Normal,Weak,Medium,Yes
